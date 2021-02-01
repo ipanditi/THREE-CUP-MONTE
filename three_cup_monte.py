@@ -1,3 +1,4 @@
+from random import shuffle
 mylist= ['','O','']
 
 #function 1
